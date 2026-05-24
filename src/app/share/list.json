@@ -1,1 +1,84 @@
-[]
+[
+	{
+		"name": "iLoveIMG",
+		"url": "https://www.iloveimg.com/zh-cn",
+		"logo": "/images/share/7e91e93e3cdd586b.svg",
+		"description": "免费图片处理网站，我经常用来压缩图片，压缩效果会比 Tinypng 更好。链式处理功能非常好用。",
+		"tags": [
+			"图片"
+		],
+		"stars": 4
+	},
+	{
+		"name": "Loadership",
+		"url": "https://www.loadership.com/",
+		"logo": "https://www.loadership.com/loadership_logo_round.svg",
+		"description": "13种 Loader 样式，在线调整使用。在 AI 时代可能意义小很多了。",
+		"tags": [
+			"CSS",
+			"Github"
+		],
+		"stars": 3
+	},
+	{
+		"name": "Magic UI",
+		"url": "https://magicui.design/",
+		"logo": "https://magicui.design/favicon.ico",
+		"description": "shadcn/ui 伴生库，有很多实用设计。取用也很方便，可以自己复制独立的代码。",
+		"tags": [
+			"组件",
+			"Github"
+		],
+		"stars": 4
+	},
+	{
+		"name": "404s.design",
+		"logo": "/images/share/5c9a8b7deb717c5f.svg",
+		"url": "https://www.404s.design/",
+		"description": "收集 404 设计的网站，无聊的时候可以看下。",
+		"tags": [
+			"网站集"
+		],
+		"stars": 3
+	},
+	{
+		"name": "abeto 官网",
+		"logo": "/images/share/36cd436103f87549.webp",
+		"url": "https://abeto.co/",
+		"description": "无限绽开的花，飘荡的树叶，复古风格化",
+		"tags": [
+			"3D"
+		],
+		"stars": 4
+	},
+	{
+		"name": "WoraWork",
+		"logo": "/images/share/34ef22be0009fedc.webp",
+		"url": "https://worawork.vercel.app/",
+		"description": "方格世界的 Web3D，场景渲染非常棒，非常值得体验",
+		"tags": [
+			"3D"
+		],
+		"stars": 3
+	},
+	{
+		"name": "企鹅世界",
+		"logo": "/images/share/1f6902a80f07368a.webp",
+		"url": "https://play.pudgyworld.com/",
+		"description": "风格化的可爱 web 游戏",
+		"tags": [
+			"3D"
+		],
+		"stars": 5
+	},
+	{
+		"name": "Susurrus",
+		"logo": "/images/share/b513e4aa35517dde.webp",
+		"url": "https://susurrus.vercel.app",
+		"description": "和煦日光下的春日田野，\n这些草儿刚刚长出，但还未完全长成。\n而当轻柔的微风拂过之处，\n它们微微荡漾，声音轻柔而低沉。",
+		"tags": [
+			"3D"
+		],
+		"stars": 4
+	}
+]
